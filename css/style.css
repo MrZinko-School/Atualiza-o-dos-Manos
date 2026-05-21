@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+#header, footer {
+    background: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+article {
+    margin-bottom: 20px;
+}
+aside {
+    background: #f4f4f4;
+    padding: 15px;
+    margin-top: 20px;
+    border-left: 4px solid #333;
+}
+figure {
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0;
+}
+figcaption {
+    font-size: 0.9rem;
+    color: #555;
+}
+.space-section {
+    margin-bottom: 50px;
+}
+#imgs {
+    background: rgb(218, 52, 52, 0.3);
+}
+#red {
+    background: rgb(218, 52, 52, 0.3);
+    padding: 15px;
+}
+#yunli {
+    background: #da3434; color: white; padding: 1rem;
+}
+#biffe {
+    background: #54b7cf; color: white; padding: 1rem;
+}
+#carteirocosmico {
+    background: #b43cd8; color: white; padding: 1rem;
+}
